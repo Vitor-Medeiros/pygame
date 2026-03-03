@@ -46,7 +46,7 @@ Durante o desenvolvimento foram aplicados os seguintes conceitos:
 ```
 pygame/
 │
-├── venv311/
+├── venv/
 ├── README.md
 └── teste-pygame.py
 ```
